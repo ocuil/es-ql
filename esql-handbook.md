@@ -1,4 +1,4 @@
-![](media/media/image1.jpeg)![](media/media/image1.png)![](media/media/image2.png)
+![](media/portada.png)
 
 La Nueva Frontera en Análisis de Datos
 
@@ -949,3 +949,13 @@ Entorno de demo de ES|QL:
 [<span class="underline">https://esql.demo.elastic.co</span>](https://esql.demo.elastic.co)
 
 ES|QL Quick![](media/media/image28.png) Reference
+
+# Agradecimientos
+
+Especial mención al equipo de ES|QL de Elasticsearch que tan buen trabajo está llevando a cabo para hacernos la vida más fácil en el procesamiento de datos, así como el equipo de Technical Writing que mantiene nuestra documentación oficial siempre lista para que podamos consultar siempre acorde a nuestras versiones de Elasticsearch.
+
+Quiero también agradecer a tod@s los compañeros que han ido aportando poco a poco a este proyecto, tanto en formato de feedback como recomendaciones y mejoras.
+
+Entre ellos los más relevantes:
+
+- [Jorge Sanz](https://github.com/jsanz) "Principal Software Engineer I" que me ha propuesto mejorar el ciclo de vida de este libro así como su feedback
